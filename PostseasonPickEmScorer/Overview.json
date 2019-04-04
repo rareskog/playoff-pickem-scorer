@@ -1,0 +1,490 @@
+﻿{
+  "Results": {
+    "Gauntlet": [
+      {
+        "Round": 1,
+        "SurvivingTeams": ["Milan Mosquitoes"]
+      }
+    ],
+    "WildcardRound": [
+      {
+        "Id": "SL Wildcard",
+        "WinningTeam": "Enix Slimes"
+      }, {
+        "Id": "DL Wildcard",
+        "WinningTeam": "RCMP"
+      }, {
+        "Id": "ML Wildcard",
+        "WinningTeam": "Brotherhood of Nod"
+      }, {
+        "Id": "DeL Wildcard",
+        "WinningTeam": "Sebastian Thunderbuckets"
+      }
+    ],
+    "Playoff": [
+      {
+        "Id": "ENI-SLA",
+        "WinningTeam": "South Bolton Eazy W's",
+        "NumberOfGames": 4,
+        "WinningScore": 5,
+        "LosingScore": 3
+      },
+      {
+        "Id": "KRA-POR",
+        "WinningTeam": "Portland Panderers",
+        "NumberOfGames": 4,
+        "WinningScore": 7,
+        "LosingScore": 5
+      },
+      {
+        "Id": "LAM-TIT",
+        "WinningTeam": "Titanic Deck Chairs",
+        "NumberOfGames": 4,
+        "WinningScore": 5,
+        "LosingScore": 4
+      },
+      {
+        "Id": "RCMP-MOS",
+        "WinningTeam": "Moscow Golden Tsars",
+        "NumberOfGames": 5,
+        "WinningScore": 3,
+        "LosingScore": 0
+      },
+      {
+        "Id": "OGA-ARL",
+        "WinningTeam": "Arlen Propane Sellers",
+        "NumberOfGames": 3,
+        "WinningScore": 3,
+        "LosingScore": 1
+      },
+      {
+        "Id": "WAL-EVE",
+        "WinningTeam": "Walney Rakers",
+        "NumberOfGames": 5,
+        "WinningScore": 2,
+        "LosingScore": 0
+      },
+      {
+        "Id": "AKA-SEB",
+        "WinningTeam": "Akabira Killer Mikes",
+        "NumberOfGames": 3,
+        "WinningScore": 7,
+        "LosingScore": 4
+      }
+    ]
+  },
+  "Picks": [
+    {
+      "Name": "PASS THE MASH",
+      "Gauntlet": [
+        {
+          "Round": 1,
+          "SurvivingTeams": [ "Joliet Jailbirds" ]
+        },
+        {
+          "Round": 2,
+          "SurvivingTeams": [ "Ogaki Aces" ]
+        },
+      ],
+      "WildcardRound": [
+        {
+          "Id": "SL Wildcard",
+          "WinningTeam": "Mexico City Machine Guns"
+        },
+        {
+          "Id": "DL Wildcard",
+          "WinningTeam": "RCMP"
+        },
+        {
+          "Id": "ML Wildcard",
+          "WinningTeam": "Brotherhood of Nod"
+        },
+        {
+          "Id": "DeL Wildcard",
+          "WinningTeam": "Sebastian Thunderbuckets"
+        }
+      ],
+      "Playoff": [
+        {
+          "Id": "ENI-SLA",
+          "WinningTeam": "South Bolton Eazy W's",
+          "NumberOfGames": 5,
+          "WinningScore": 7,
+          "LosingScore": 4
+        },
+        {
+          "Id": "KRA-POR",
+          "WinningTeam": "Portland Panderers",
+          "NumberOfGames": 4,
+          "WinningScore": 4,
+          "LosingScore": 3
+        },
+        {
+          "Id": "LAM-TIT",
+          "WinningTeam": "Los Angeles Misanthropes",
+          "NumberOfGames": 3,
+          "WinningScore": 2,
+          "LosingScore": 1
+        },
+        {
+          "Id": "RCMP-MOS",
+          "WinningTeam": "RCMP",
+          "NumberOfGames": 5,
+          "WinningScore": 5,
+          "LosingScore": 2
+        },
+        {
+          "Id": "OGA-ARL",
+          "WinningTeam": "Ogaki Aces",
+          "NumberOfGames": 5,
+          "WinningScore": 8,
+          "LosingScore": 4
+        },
+        {
+          "Id": "WAL-EVE",
+          "WinningTeam": "Walney Rakers",
+          "NumberOfGames": 3,
+          "WinningScore": 5,
+          "LosingScore": 2
+        },
+        {
+          "Id": "AKA-SEB",
+          "WinningTeam": "Akabira Killer Mikes",
+          "NumberOfGames": 3,
+          "WinningScore": 3,
+          "LosingScore": 1
+        },
+        {
+          "Id": "NOD-CAM",
+          "WinningTeam": "Brotherhood of Nod",
+          "NumberOfGames": 5,
+          "WinningScore": 6,
+          "LosingScore": 5
+        },
+        {
+          "Id": "SLA-POR",
+          "WinningTeam": "Portland Panderers",
+          "NumberOfGames": 6,
+          "WinningScore": 3,
+          "LosingScore": 2
+        },
+        {
+          "Id": "MOS-TIT",
+          "WinningTeam": "Titanic Deck Chairs",
+          "NumberOfGames": 7,
+          "WinningScore": 6,
+          "LosingScore": 2
+        },
+      ]
+    },
+    {
+      "Name": "Edward Mass",
+      "Gauntlet": [
+        {
+          "Round": 1,
+          "SurvivingTeams": [ "Hill City Dinos" ]
+        },
+        {
+          "Round": 2,
+          "SurvivingTeams": [ "Milan Mosquitoes" ]
+        }
+      ],
+      "WildcardRound": [
+        {
+          "Id": "SL Wildcard",
+          "WinningTeam": "Mexico City Machine Guns"
+        },
+        {
+          "Id": "DL Wildcard",
+          "WinningTeam": "World Warriors"
+        },
+        {
+          "Id": "ML Wildcard",
+          "WinningTeam": "W.E.B. Dat Bois"
+        },
+        {
+          "Id": "DeL Wildcard",
+          "WinningTeam": "Sebastian Thunderbuckets"
+        }
+      ],
+      "Playoff": [
+        {
+          "Id": "ENI-SLA",
+          "WinningTeam": "South Bolton Eazy W's",
+          "NumberOfGames": 3,
+          "WinningScore": 4,
+          "LosingScore": 3
+        },
+        {
+          "Id": "KRA-POR",
+          "WinningTeam": "Portland Panderers",
+          "NumberOfGames": 5,
+          "WinningScore": 5,
+          "LosingScore": 1
+        },
+        {
+          "Id": "LAM-TIT",
+          "WinningTeam": "Los Angeles Misanthropes",
+          "NumberOfGames": 4,
+          "WinningScore": 7,
+          "LosingScore": 4
+        },
+        {
+          "Id": "RCMP-MOS",
+          "WinningTeam": "Moscow Golden Tsars",
+          "NumberOfGames": 3,
+          "WinningScore": 3,
+          "LosingScore": 0
+        },
+        {
+          "Id": "OGA-ARL",
+          "WinningTeam": "Ogaki Aces",
+          "NumberOfGames": 5,
+          "WinningScore": 5,
+          "LosingScore": 4
+        },
+        {
+          "Id": "WAL-EVE",
+          "WinningTeam": "Walney Rakers",
+          "NumberOfGames": 4,
+          "WinningScore": 7,
+          "LosingScore": 2
+        },
+        {
+          "Id": "AKA-SEB",
+          "WinningTeam": "Akabira Killer Mikes",
+          "NumberOfGames": 3,
+          "WinningScore": 5,
+          "LosingScore": 3
+        },
+        {
+          "Id": "NOD-CAM",
+          "WinningTeam": "Camden Buzzsaw",
+          "NumberOfGames": 5,
+          "WinningScore": 3,
+          "LosingScore": 0
+        },
+        {
+          "Id": "SLA-POR",
+          "WinningTeam": "South Bolton Eazy W's",
+          "NumberOfGames": 7,
+          "WinningScore": 4,
+          "LosingScore": 3
+        },
+        {
+          "Id": "MOS-TIT",
+          "WinningTeam": "Moscow Golden Tsars",
+          "NumberOfGames": 5,
+          "WinningScore": 6,
+          "LosingScore": 3
+        }
+      ]
+    },
+    {
+      "Name": "mentholmoose",
+      "Gauntlet": [
+        {
+          "Round": 1,
+          "SurvivingTeams": [ "Joliet Jailbirds" ]
+        },
+        {
+          "Round": 2,
+          "SurvivingTeams": [ "Milan Mosquitoes" ]
+        }
+      ],
+      "WildcardRound": [
+        {
+          "Id": "SL Wildcard",
+          "WinningTeam": "Mexico City Machine Guns"
+        },
+        {
+          "Id": "DL Wildcard",
+          "WinningTeam": "RCMP"
+        },
+        {
+          "Id": "ML Wildcard",
+          "WinningTeam": "W.E.B. Dat Bois"
+        },
+        {
+          "Id": "DeL Wildcard",
+          "WinningTeam": "Prague Plague Doctors"
+        }
+      ],
+      "Playoff": [
+        {
+          "Id": "ENI-SLA",
+          "WinningTeam": "South Bolton Eazy W's",
+          "NumberOfGames": 4,
+          "WinningScore": 5,
+          "LosingScore": 2
+        },
+        {
+          "Id": "KRA-POR",
+          "WinningTeam": "Portland Panderers",
+          "NumberOfGames": 4,
+          "WinningScore": 6,
+          "LosingScore": 3
+        },
+        {
+          "Id": "LAM-TIT",
+          "WinningTeam": "Los Angeles Misanthropes",
+          "NumberOfGames": 4,
+          "WinningScore": 7,
+          "LosingScore": 2
+        },
+        {
+          "Id": "RCMP-MOS",
+          "WinningTeam": "Moscow Golden Tsars",
+          "NumberOfGames": 5,
+          "WinningScore": 6,
+          "LosingScore": 4
+        },
+        {
+          "Id": "OGA-ARL",
+          "WinningTeam": "Ogaki Aces",
+          "NumberOfGames": 4,
+          "WinningScore": 5,
+          "LosingScore": 4
+        },
+        {
+          "Id": "WAL-EVE",
+          "WinningTeam": "Everett Eagles",
+          "NumberOfGames": 4,
+          "WinningScore": 3,
+          "LosingScore": 2
+        },
+        {
+          "Id": "AKA-SEB",
+          "WinningTeam": "Akabira Killer Mikes",
+          "NumberOfGames": 3,
+          "WinningScore": 5,
+          "LosingScore": 1
+        },
+        {
+          "Id": "NOD-CAM",
+          "WinningTeam": "Brotherhood of Nod",
+          "NumberOfGames": 5,
+          "WinningScore": 7,
+          "LosingScore": 1
+        },
+        {
+          "Id": "SLA-POR",
+          "WinningTeam": "Portland Panderers",
+          "NumberOfGames": 7,
+          "WinningScore": 7,
+          "LosingScore": 4
+        },
+        {
+          "Id": "MOS-TIT",
+          "WinningTeam": "Moscow Golden Tsars",
+          "NumberOfGames": 5,
+          "WinningScore": 5,
+          "LosingScore": 1
+        }
+      ]
+    },
+    {
+      "Name": "Zodiac5000",
+      "Gauntlet": [
+        {
+          "Round": 1,
+          "SurvivingTeams": [ "Hill City Dinos" ]
+        },
+        {
+          "Round": 2,
+          "SurvivingTeams": [  ]
+        }
+      ],
+      "WildcardRound": [
+        {
+          "Id": "SL Wildcard",
+          "WinningTeam": "Enix Slimes"
+        },
+        {
+          "Id": "DL Wildcard",
+          "WinningTeam": "RCMP"
+        },
+        {
+          "Id": "ML Wildcard",
+          "WinningTeam": "W.E.B. Dat Bois"
+        },
+        {
+          "Id": "DeL Wildcard",
+          "WinningTeam": "Sebastian Thunderbuckets"
+        }
+      ],
+      "Playoff": [
+        {
+          "Id": "ENI-SLA",
+          "WinningTeam": "Enix Slimes",
+          "NumberOfGames": 4,
+          "WinningScore": 7,
+          "LosingScore": 3
+        },
+        {
+          "Id": "KRA-POR",
+          "WinningTeam": "Portland Panderers",
+          "NumberOfGames": 3,
+          "WinningScore": 3,
+          "LosingScore": 2
+        },
+        {
+          "Id": "LAM-TIT",
+          "WinningTeam": "Titanic Deck Chairs",
+          "NumberOfGames": 4,
+          "WinningScore": 4,
+          "LosingScore": 3
+        },
+        {
+          "Id": "RCMP-MOS",
+          "WinningTeam": "RCMP",
+          "NumberOfGames": 5,
+          "WinningScore": 6,
+          "LosingScore": 1
+        },
+        {
+          "Id": "OGA-ARL",
+          "WinningTeam": "Ogaki Aces",
+          "NumberOfGames": 4,
+          "WinningScore": 5,
+          "LosingScore": 3
+        },
+        {
+          "Id": "WAL-EVE",
+          "WinningTeam": "Walney Rakers",
+          "NumberOfGames": 3,
+          "WinningScore": 2,
+          "LosingScore": 0
+        },
+        {
+          "Id": "AKA-SEB",
+          "WinningTeam": "Sebastian Thunderbuckets",
+          "NumberOfGames": 4,
+          "WinningScore": 6,
+          "LosingScore": 4
+        },
+        {
+          "Id": "NOD-CAM",
+          "WinningTeam": "Brotherhood of Nod",
+          "NumberOfGames": 4,
+          "WinningScore": 4,
+          "LosingScore": 3
+        },
+        {
+          "Id": "SLA-POR",
+          "WinningTeam": "Portland Panderers",
+          "NumberOfGames": 6,
+          "WinningScore": 5,
+          "LosingScore": 3
+        },
+        {
+          "Id": "MOS-TIT",
+          "WinningTeam": "Moscow Golden Tsars",
+          "NumberOfGames": 7,
+          "WinningScore": 6,
+          "LosingScore": 2
+        }
+      ]
+    },
+  ]
+}

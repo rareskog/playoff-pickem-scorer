@@ -1,0 +1,11 @@
+c:\users\ricky\source\repos\PostseasonPickEmScorer\PostseasonPickEmScorer\bin\Debug\netcoreapp2.0\PostseasonPickEmScorer.deps.json
+c:\users\ricky\source\repos\PostseasonPickEmScorer\PostseasonPickEmScorer\bin\Debug\netcoreapp2.0\PostseasonPickEmScorer.runtimeconfig.json
+c:\users\ricky\source\repos\PostseasonPickEmScorer\PostseasonPickEmScorer\bin\Debug\netcoreapp2.0\PostseasonPickEmScorer.runtimeconfig.dev.json
+c:\users\ricky\source\repos\PostseasonPickEmScorer\PostseasonPickEmScorer\bin\Debug\netcoreapp2.0\PostseasonPickEmScorer.dll
+c:\users\ricky\source\repos\PostseasonPickEmScorer\PostseasonPickEmScorer\bin\Debug\netcoreapp2.0\PostseasonPickEmScorer.pdb
+c:\users\ricky\source\repos\PostseasonPickEmScorer\PostseasonPickEmScorer\obj\Debug\netcoreapp2.0\PostseasonPickEmScorer.csprojResolveAssemblyReference.cache
+c:\users\ricky\source\repos\PostseasonPickEmScorer\PostseasonPickEmScorer\obj\Debug\netcoreapp2.0\PostseasonPickEmScorer.csproj.CoreCompileInputs.cache
+c:\users\ricky\source\repos\PostseasonPickEmScorer\PostseasonPickEmScorer\obj\Debug\netcoreapp2.0\PostseasonPickEmScorer.AssemblyInfoInputs.cache
+c:\users\ricky\source\repos\PostseasonPickEmScorer\PostseasonPickEmScorer\obj\Debug\netcoreapp2.0\PostseasonPickEmScorer.AssemblyInfo.cs
+c:\users\ricky\source\repos\PostseasonPickEmScorer\PostseasonPickEmScorer\obj\Debug\netcoreapp2.0\PostseasonPickEmScorer.dll
+c:\users\ricky\source\repos\PostseasonPickEmScorer\PostseasonPickEmScorer\obj\Debug\netcoreapp2.0\PostseasonPickEmScorer.pdb
